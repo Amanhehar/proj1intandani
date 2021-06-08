@@ -1,0 +1,149 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+body h1{
+	width: auto;
+	height: auto;
+	align-content: center;
+	text-align: center;
+}
+
+.contentt{
+    margin-left: 10px;
+    margin-right: 10px;
+	background-color: whitesmoke;
+}
+
+#content1{
+	
+	width: 40%;
+	height: auto;
+	border: solid black 1px;
+	padding: 20px;
+	margin-bottom: 20px;
+	float: left;
+	
+}
+
+#grec{
+	
+	width: 200px;
+	height: 100px;
+	border: solid black 0px;
+	background-color: #562621;
+
+}
+
+#content2{
+	
+	width: 40%;
+	height: auto;
+	border: solid black 1px;
+	padding: 20px;
+	margin-bottom: 20px;
+	float: left;
+	margin-left: 10%;
+	background-color: whitesmoke;
+	
+}
+
+#meme{
+	width: auto;
+	height: auto;
+	margin-left: 100px;
+	opacity: 0;
+	
+}
+
+
+#memeimg{
+	width: 1%;
+    height: auto;
+	margin-left: 100px;
+	opacity: 0;
+	
+}
+
+#content3{
+	
+	width: 90%;
+	height: auto;
+	border: solid black 1px;
+	padding: 20px;
+	margin-bottom: 20px;
+	float: left;
+	margin-top: 100px;
+	background-color: whitesmoke;
+	
+}
+
+#circle{
+	line-height: 50px;
+	text-align: center;
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	background-color: #011C40;
+	position: relative;
+	color: white;
+	
+}
+
+#smallC1{
+	height: 20px;
+	width: 20px;
+	background-color: #B3E0F2;
+	position: relative;
+	top: 0px;
+    left: 65px;
+	border-radius: 50%;
+
+}
+
+
+#smallC2{
+	height: 20px;
+	width: 20px;
+	background-color: white;
+	position: relative;
+	top: -20px;
+    left: 65px;
+	border-radius: 50%;
+}
+
+#buttonn1{
+
+	width: 400px;
+	height: 40px;
+	margin-bottom: 20px;
+    padding: 5px;
+	background-color:#562621;
+	color: whitesmoke;
+}
+
+#buttonn2{
+
+	width: 400px;
+	height: 40px;
+	margin-bottom: 20px;
+    padding: 5px;
+	background-color : black;
+	color : white;
+}
+
+#buttonn3{
+
+	width: 400px;
+	height: 40px;
+	margin-bottom: 20px;
+    padding: 5px;
+	background-color: #011C40;
+	color: whitesmoke;
+}
